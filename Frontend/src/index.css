@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+/* glow effect */
+.cell-hover:hover {
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.6);
+}
